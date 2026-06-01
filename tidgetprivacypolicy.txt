@@ -1,0 +1,44 @@
+Privacy Policy for Tidget
+
+Last updated: June 1, 2026
+
+Overview
+
+Tidget is an Android home screen widget app that allows users to display custom text on their home screen. This Privacy Policy explains how we handle information in connection with your use of the app.
+
+Information We Collect
+
+Tidget itself does not collect, store, or transmit any personal information. All widget configuration data (text content, font, size, colour settings) is stored locally on your device only and is never transmitted to any server.
+
+Advertising
+
+Tidget displays advertisements provided by Google AdMob. As part of ad serving, Google AdMob may collect and process the following:
+
+Advertising ID (a resettable device identifier)
+Device information (device model, OS version)
+IP address
+General location (country/region level, derived from IP)
+Ad interaction data (impressions, clicks)
+This data is collected and processed by Google in accordance with Google's Privacy Policy and Google's Advertising policies. We do not have access to this data.
+
+You can opt out of personalised advertising at any time by going to Settings → Google → Ads → Opt out of Ads Personalisation on your Android device.
+
+Data Sharing
+
+We do not sell, trade, or share any user data. Ad-related data described above is handled entirely by Google AdMob and subject to Google's own privacy terms.
+
+Data Retention
+
+Widget settings are stored locally on your device and are deleted when you uninstall the app. We retain no data on any server.
+
+Children's Privacy
+
+Tidget is intended for users aged 18 and over and is not directed at children. We do not knowingly collect personal information from children.
+
+Changes to This Policy
+
+We may update this Privacy Policy from time to time. The updated policy will be posted at this URL with a revised date.
+
+Contact
+
+If you have any questions about this Privacy Policy, please contact us at: admin@lumiidev.com
